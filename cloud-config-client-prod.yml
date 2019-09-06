@@ -1,1 +1,2 @@
-message=Root Client PROD YML
+message=Client PROD YML
+host=client.yml.prod.com

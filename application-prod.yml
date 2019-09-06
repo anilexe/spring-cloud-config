@@ -1,1 +1,2 @@
-message=Root Application Prod YML
+message=Application Prod YML
+host=application.yml.prod.com
